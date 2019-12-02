@@ -3,6 +3,9 @@
 [x] add 10 to the score of a player and then another 10 and get returns 20
 
 # For workshop:
-[ ] subtract 5 from a score of 10 to get 5
-[ ] subtract 5 from a score of 10 to get 5 and then subtract 5 again to get to 0
-[ ] subtract 5 from a score of 0 to get 0
+[x] subtract 5 from a score of 10 to get 5
+[x] subtract 5 from a score of 10 to get 5 and then subtract 5 again to get to 0
+[x] subtract 5 from a score of 0 to get 0
+[x] subtract 5 from a score of 2 to get 0
+[x] add 5 from a scorer A and add 10 for scorer B and then get A's and B's scores
+[ ] add 5 from a scorer A and add 10 for scorer B and then substract 2 from A and 2 from B
